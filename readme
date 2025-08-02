@@ -13,7 +13,7 @@ Kurulumlar
 1.proxmox
 2.ubuntu server
 3.debian server
-4.cloudflare
+4.cloudflareCatia
 5.AdGuard
 6.Pi-Hole
 7.TrueNAS - OpenMediavault
@@ -26,3 +26,13 @@ Ayarlar
 2. ...
 3. ...
 ...
+
+Mekanik Aksam için 3d Baskı Tasarım Yazılımları
+1.freecad
+2.3d Blender
+3.shapr 3d
+4.Meshmixer
+5.Catia
+6.DesingSpark cad
+...
+
