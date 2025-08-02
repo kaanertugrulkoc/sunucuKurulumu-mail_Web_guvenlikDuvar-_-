@@ -22,6 +22,8 @@ Yapay Zeka Destekli Güvenlik Kamera Sistemi Kurulumu
 Ekipmanlar
 1.Raspberry Pi 4
 2.3D Printer
+3.Ardunio Bazı Modelleri
+3.STM32
 
 Kurulumlar
 1.proxmox
